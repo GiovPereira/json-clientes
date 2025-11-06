@@ -78,21 +78,21 @@
   "multas": [
     {
       "id": 1,
-      "valor": 208.1,
+      "valor": 28.10,
       "nomeCliente": "Cliente 01",
       "status": "Agendado"
     },
     {
       "id": 2,
-      "valor": 208.1,
-      "nomeCliente": "Cliente 23",
+      "valor": 10,
+      "nomeCliente": "Cliente 2",
       "status": "Entregue"
     },
     {
       "id": 3,
-      "valor": 208.1,
+      "valor": 2.50,
       "nomeCliente": "Cliente 3",
-      "status": ""
+      "status": "Pendente"
     }
   ]
 }
