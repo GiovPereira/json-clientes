@@ -85,14 +85,14 @@
     {
       "id": 2,
       "valor": 208.1,
-      "nomeCliente": "Cliente 2",
+      "nomeCliente": "Cliente 23",
       "status": "Entregue"
     },
     {
       "id": 3,
       "valor": 208.1,
       "nomeCliente": "Cliente 3",
-      "status": "Pendente"
+      "status": ""
     }
   ]
 }
