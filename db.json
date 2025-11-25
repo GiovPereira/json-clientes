@@ -12,7 +12,9 @@
       "complemento": "1",
       "bairro": "1",
       "cidade": "JF",
-      "estado": "MG"
+      "estado": "MG",
+      "obras": "Macunaíma",
+      "pendencias": "Nenhuma"
     },
     {
       "id": 2,
@@ -26,7 +28,9 @@
       "complemento": "1",
       "bairro": "1",
       "cidade": "JF",
-      "estado": "MG"
+      "estado": "MG",
+      "obras": "Todos Contra Todos",
+      "pendencias": "Atraso"
     },
     {
       "id": 3,
@@ -40,13 +44,16 @@
       "complemento": "1",
       "bairro": "1",
       "cidade": "JF",
-      "estado": "MG"
+      "estado": "MG",
+      "obras": "Dom Casmurro",
+      "pendencias": "Nenhuma"
     }
   ],
-    "exemplares": [
+
+  "exemplares": [
     {
       "id": 1,
-      "título": "Exemplar 1",
+      "titulo": "Exemplar 1",
       "isbn": 1,
       "edicao": 1,
       "editora": "A",
@@ -56,7 +63,7 @@
     },
     {
       "id": 2,
-      "título": "Exemplar 2",
+      "titulo": "Exemplar 2",
       "isbn": 2,
       "edicao": 2,
       "editora": "B",
@@ -66,7 +73,7 @@
     },
     {
       "id": 3,
-      "título": "Exemplar 3",
+      "titulo": "Exemplar 3",
       "isbn": 3,
       "edicao": 3,
       "editora": "C",
@@ -75,6 +82,7 @@
       "secao": 3
     }
   ],
+
   "multas": [
     {
       "id": 1,
