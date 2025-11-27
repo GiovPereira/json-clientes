@@ -13,7 +13,7 @@
       "bairro": "Centro",
       "cidade": "Juiz de Fora",
       "estado": "MG",
-      "obras": "Macunaíma",
+      "obras": "O Senhor dos Anéis: A Sociedade do Anel",
       "pendencias": "Nenhuma"
     },
     {
@@ -29,7 +29,7 @@
       "bairro": "São Mateus",
       "cidade": "Juiz de Fora",
       "estado": "MG",
-      "obras": "Todos Contra Todos",
+      "obras": "1984",
       "pendencias": "Atraso"
     },
     {
@@ -61,7 +61,7 @@
       "bairro": "Costa Carvalho",
       "cidade": "Juiz de Fora",
       "estado": "MG",
-      "obras": "O Cortiço",
+      "obras": "O Hobbit",
       "pendencias": "Nenhuma"
     },
     {
@@ -77,7 +77,7 @@
       "bairro": "Granbery",
       "cidade": "Juiz de Fora",
       "estado": "MG",
-      "obras": "Vidas Secas",
+      "obras": "O Sol é Para Todos",
       "pendencias": "Atraso"
     },
     {
@@ -93,7 +93,7 @@
       "bairro": "São Pedro",
       "cidade": "Juiz de Fora",
       "estado": "MG",
-      "obras": "Grande Sertão: Veredas",
+      "obras": "Cem Anos de Solidão",
       "pendencias": "Nenhuma"
     }
   ],
@@ -101,32 +101,32 @@
   "exemplares": [
     {
       "id": 1,
-      "titulo": "Exemplar 1",
-      "isbn": 1,
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "isbn": 9788533613409,
       "edicao": 1,
-      "editora": "A",
-      "genero": "A",
-      "idioma": "A",
+      "editora": "HarperCollins",
+      "genero": "Fantasia",
+      "idioma": "Inglês",
       "secao": 1
     },
     {
       "id": 2,
-      "titulo": "Exemplar 2",
-      "isbn": 2,
+      "titulo": "Dom Casmurro",
+      "isbn": 9788530809515,
       "edicao": 2,
-      "editora": "B",
-      "genero": "B",
-      "idioma": "B",
+      "editora": "Editora Record",
+      "genero": "Clássico Brasileiro",
+      "idioma": "Português",
       "secao": 2
     },
     {
       "id": 3,
-      "titulo": "Exemplar 3",
-      "isbn": 3,
-      "edicao": 3,
-      "editora": "C",
-      "genero": "B",
-      "idioma": "B",
+      "titulo": "Orgulho e Preconceito",
+      "isbn": 9780141439518,
+      "edicao": 1,
+      "editora": "Penguin Books",
+      "genero": "Romance",
+      "idioma": "Inglês",
       "secao": 3
     }
   ],
@@ -134,20 +134,20 @@
   "multas": [
     {
       "id": 1,
-      "valor": 28.10,
-      "nomeCliente": "Cliente 01",
+      "valor": 0,
+      "nomeCliente": "Carlos Henrique Silva",
       "status": "Agendado"
     },
     {
       "id": 2,
-      "valor": 10,
-      "nomeCliente": "Cliente 2",
+      "valor": 10.00,
+      "nomeCliente": "Patrícia Gomes da Silva",
       "status": "Entregue"
     },
     {
       "id": 3,
       "valor": 2.50,
-      "nomeCliente": "Cliente 3",
+      "nomeCliente": "Lucas Andrade Pereira",
       "status": "Pendente"
     }
   ]
