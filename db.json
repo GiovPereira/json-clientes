@@ -13,7 +13,7 @@
       "bairro": "Centro",
       "cidade": "Juiz de Fora",
       "estado": "MG",
-      "obras": "O Senhor dos Anéis: A Sociedade do Anel",
+      "obras": "Macunaíma",
       "pendencias": "Nenhuma"
     },
     {
@@ -29,7 +29,7 @@
       "bairro": "São Mateus",
       "cidade": "Juiz de Fora",
       "estado": "MG",
-      "obras": "1984",
+      "obras": "Todos Contra Todos",
       "pendencias": "Atraso"
     },
     {
@@ -61,7 +61,7 @@
       "bairro": "Costa Carvalho",
       "cidade": "Juiz de Fora",
       "estado": "MG",
-      "obras": "O Hobbit",
+      "obras": "O Cortiço",
       "pendencias": "Nenhuma"
     },
     {
@@ -77,7 +77,7 @@
       "bairro": "Granbery",
       "cidade": "Juiz de Fora",
       "estado": "MG",
-      "obras": "O Sol é Para Todos",
+      "obras": "Vidas Secas",
       "pendencias": "Atraso"
     },
     {
@@ -93,61 +93,253 @@
       "bairro": "São Pedro",
       "cidade": "Juiz de Fora",
       "estado": "MG",
-      "obras": "Cem Anos de Solidão",
+      "obras": "Grande Sertão: Veredas",
       "pendencias": "Nenhuma"
     }
   ],
-
   "exemplares": [
     {
       "id": 1,
-      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
-      "isbn": 9788533613409,
-      "edicao": 1,
-      "editora": "HarperCollins",
-      "genero": "Fantasia",
-      "idioma": "Inglês",
-      "secao": 1
+      "idObra": 1,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "10-05-2022",
+      "secao": "Estante A1 - Prat. 2"
     },
     {
       "id": 2,
-      "titulo": "Dom Casmurro",
-      "isbn": 9788530809515,
-      "edicao": 2,
-      "editora": "Editora Record",
-      "genero": "Clássico Brasileiro",
-      "idioma": "Português",
-      "secao": 2
+      "idObra": 1,
+      "status": "EMPRESTADO",
+      "dataAquisicao": "18-01-2023",
+      "secao": "Estante A1 - Prat. 2"
     },
     {
       "id": 3,
-      "titulo": "Orgulho e Preconceito",
-      "isbn": 9780141439518,
-      "edicao": 1,
-      "editora": "Penguin Books",
-      "genero": "Romance",
-      "idioma": "Inglês",
-      "secao": 3
+      "idObra": 1,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "03-08-2023",
+      "secao": "Estante A1 - Prat. 3"
+    },
+    {
+      "id": 4,
+      "idObra": 2,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "21-09-2021",
+      "secao": "Estante B2 - Prat. 1"
+    },
+    {
+      "id": 5,
+      "idObra": 2,
+      "status": "RESERVADO",
+      "dataAquisicao": "12-04-2022",
+      "secao": "Estante B2 - Prat. 1"
+    },
+    {
+      "id": 6,
+      "idObra": 2,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "19-06-2023",
+      "secao": "Estante B2 - Prat. 2"
+    },
+    {
+      "id": 7,
+      "idObra": 3,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "10-11-2019",
+      "secao": "Estante C3 - Prat. 1"
+    },
+    {
+      "id": 8,
+      "idObra": 3,
+      "status": "DANIFICADO",
+      "dataAquisicao": "14-08-2020",
+      "secao": "Estante C3 - Prat. 1"
+    },
+    {
+      "id": 9,
+      "idObra": 4,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "20-02-2018",
+      "secao": "Estante A4 - Prat. 3"
+    },
+    {
+      "id": 10,
+      "idObra": 4,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "11-07-2021",
+      "secao": "Estante A4 - Prat. 3"
+    },
+    {
+      "id": 11,
+      "idObra": 4,
+      "status": "EMPRESTADO",
+      "dataAquisicao": "05-12-2022",
+      "secao": "Estante A4 - Prat. 2"
+    },
+    {
+      "id": 12,
+      "idObra": 5,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "02-09-2023",
+      "secao": "Estante D1 - Prat. 1"
+    },
+    {
+      "id": 13,
+      "idObra": 5,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "15-01-2024",
+      "secao": "Estante D1 - Prat. 1"
+    },
+    {
+      "id": 14,
+      "idObra": 6,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "29-10-2017",
+      "secao": "Estante C1 - Prat. 4"
+    },
+    {
+      "id": 15,
+      "idObra": 6,
+      "status": "RESERVADO",
+      "dataAquisicao": "20-05-2019",
+      "secao": "Estante C1 - Prat. 4"
+    },
+    {
+      "id": 16,
+      "idObra": 6,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "09-11-2021",
+      "secao": "Estante C1 - Prat. 3"
+    },
+    {
+      "id": 17,
+      "idObra": 7,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "16-03-2022",
+      "secao": "Estante A2 - Prat. 2"
+    },
+    {
+      "id": 18,
+      "idObra": 7,
+      "status": "EMPRESTADO",
+      "dataAquisicao": "08-04-2023",
+      "secao": "Estante A2 - Prat. 2"
+    },
+    {
+      "id": 19,
+      "idObra": 8,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "12-10-2022",
+      "secao": "Estante B1 - Prat. 3"
+    },
+    {
+      "id": 20,
+      "idObra": 8,
+      "status": "DANIFICADO",
+      "dataAquisicao": "23-12-2021",
+      "secao": "Estante B1 - Prat. 3"
+    },
+    {
+      "id": 21,
+      "idObra": 8,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "09-02-2024",
+      "secao": "Estante B1 - Prat. 4"
+    },
+    {
+      "id": 22,
+      "idObra": 9,
+      "status": "EMPRESTADO",
+      "dataAquisicao": "14-03-2020",
+      "secao": "Estante D3 - Prat. 1"
+    },
+    {
+      "id": 23,
+      "idObra": 9,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "21-08-2021",
+      "secao": "Estante D3 - Prat. 1"
+    },
+    {
+      "id": 24,
+      "idObra": 10,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "17-05-2023",
+      "secao": "Estante E2 - Prat. 4"
+    },
+    {
+      "id": 25,
+      "idObra": 10,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "02-10-2023",
+      "secao": "Estante E2 - Prat. 4"
+    },
+    {
+      "id": 26,
+      "idObra": 10,
+      "status": "EMPRESTADO",
+      "dataAquisicao": "10-01-2024",
+      "secao": "Estante E2 - Prat. 3"
+    },
+    {
+      "id": 27,
+      "idObra": 11,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "25-07-2018",
+      "secao": "Estante F1 - Prat. 2"
+    },
+    {
+      "id": 28,
+      "idObra": 11,
+      "status": "DANIFICADO",
+      "dataAquisicao": "10-09-2019",
+      "secao": "Estante F1 - Prat. 2"
+    },
+    {
+      "id": 29,
+      "idObra": 12,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "03-10-2020",
+      "secao": "Estante F2 - Prat. 3"
+    },
+    {
+      "id": 30,
+      "idObra": 12,
+      "status": "RESERVADO",
+      "dataAquisicao": "14-01-2022",
+      "secao": "Estante F2 - Prat. 3"
+    },
+    {
+      "id": 31,
+      "idObra": 12,
+      "status": "DISPONIVEL",
+      "dataAquisicao": "09-03-2023",
+      "secao": "Estante F2 - Prat. 4"
+    },
+    {
+      "id": 32,
+      "idObra": 12,
+      "status": "EMPRESTADO",
+      "dataAquisicao": "27-01-2024",
+      "secao": "Estante F2 - Prat. 4"
     }
   ],
-
   "multas": [
     {
       "id": 1,
-      "valor": 0,
-      "nomeCliente": "Carlos Henrique Silva",
+      "valor": 0.00,
+      "idCliente": 1,
       "status": "Agendado"
     },
     {
       "id": 2,
-      "valor": 10.00,
-      "nomeCliente": "Patrícia Gomes da Silva",
+      "valor": 10,
+      "idCliente": 3,
       "status": "Entregue"
     },
     {
       "id": 3,
       "valor": 2.50,
-      "nomeCliente": "Lucas Andrade Pereira",
+      "idCliente": 2,
       "status": "Pendente"
     }
   ]
