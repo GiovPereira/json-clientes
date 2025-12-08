@@ -307,20 +307,6 @@
       "status": "RESERVADO",
       "dataAquisicao": "14-01-2022",
       "secao": "Estante F2 - Prat. 3"
-    },
-    {
-      "id": 31,
-      "idObra": 12,
-      "status": "DISPONIVEL",
-      "dataAquisicao": "09-03-2023",
-      "secao": "Estante F2 - Prat. 4"
-    },
-    {
-      "id": 32,
-      "idObra": 12,
-      "status": "EMPRESTADO",
-      "dataAquisicao": "27-01-2024",
-      "secao": "Estante F2 - Prat. 4"
     }
   ],
   "multas": [
