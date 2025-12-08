@@ -300,13 +300,6 @@
       "status": "DISPONIVEL",
       "dataAquisicao": "03-10-2020",
       "secao": "Estante F2 - Prat. 3"
-    },
-    {
-      "id": 30,
-      "idObra": 12,
-      "status": "RESERVADO",
-      "dataAquisicao": "14-01-2022",
-      "secao": "Estante F2 - Prat. 3"
     }
   ],
   "multas": [
