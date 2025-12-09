@@ -12,9 +12,7 @@
       "complemento": "Apto 302",
       "bairro": "Centro",
       "cidade": "Juiz de Fora",
-      "estado": "MG",
-      "obras": "Macunaíma",
-      "pendencias": "Nenhuma"
+      "estado": "MG"
     },
     {
       "id": 2,
@@ -28,9 +26,7 @@
       "complemento": "Sala 12",
       "bairro": "São Mateus",
       "cidade": "Juiz de Fora",
-      "estado": "MG",
-      "obras": "Todos Contra Todos",
-      "pendencias": "Atraso"
+      "estado": "MG"
     },
     {
       "id": 3,
@@ -44,9 +40,7 @@
       "complemento": "Fundos",
       "bairro": "Cascatinha",
       "cidade": "Juiz de Fora",
-      "estado": "MG",
-      "obras": "Dom Casmurro",
-      "pendencias": "Nenhuma"
+      "estado": "MG"
     },
     {
       "id": 4,
@@ -60,9 +54,7 @@
       "complemento": "Casa",
       "bairro": "Costa Carvalho",
       "cidade": "Juiz de Fora",
-      "estado": "MG",
-      "obras": "O Cortiço",
-      "pendencias": "Nenhuma"
+      "estado": "MG"
     },
     {
       "id": 5,
@@ -76,9 +68,7 @@
       "complemento": "Apto 101",
       "bairro": "Granbery",
       "cidade": "Juiz de Fora",
-      "estado": "MG",
-      "obras": "Vidas Secas",
-      "pendencias": "Atraso"
+      "estado": "MG"
     },
     {
       "id": 6,
@@ -92,214 +82,241 @@
       "complemento": "Apto 504",
       "bairro": "São Pedro",
       "cidade": "Juiz de Fora",
-      "estado": "MG",
-      "obras": "Grande Sertão: Veredas",
-      "pendencias": "Nenhuma"
+      "estado": "MG"
     }
   ],
   "exemplares": [
     {
       "id": 1,
       "idObra": 1,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "10-05-2022",
-      "secao": "Estante A1 - Prat. 2"
+      "idSecao": 1,
+      "idCliente": 1
     },
     {
       "id": 2,
       "idObra": 1,
-      "status": "EMPRESTADO",
+      "status": 2,
       "dataAquisicao": "18-01-2023",
-      "secao": "Estante A1 - Prat. 2"
+      "idSecao": 1,
+      "idCliente": 2
     },
     {
       "id": 3,
       "idObra": 1,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "03-08-2023",
-      "secao": "Estante A1 - Prat. 3"
+      "idSecao": 1,
+      "idCliente": 2
     },
     {
       "id": 4,
       "idObra": 2,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "21-09-2021",
-      "secao": "Estante B2 - Prat. 1"
+      "idSecao": 5,
+      "idCliente": 2
     },
     {
       "id": 5,
       "idObra": 2,
-      "status": "RESERVADO",
+      "status": 3,
       "dataAquisicao": "12-04-2022",
-      "secao": "Estante B2 - Prat. 1"
+      "idSecao": 5,
+      "idCliente": 1
     },
     {
       "id": 6,
       "idObra": 2,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "19-06-2023",
-      "secao": "Estante B2 - Prat. 2"
+      "idSecao": 5,
+      "idCliente": 1
     },
     {
       "id": 7,
       "idObra": 3,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "10-11-2019",
-      "secao": "Estante C3 - Prat. 1"
+      "idSecao": 2,
+      "idCliente": 4
     },
     {
       "id": 8,
       "idObra": 3,
-      "status": "DANIFICADO",
+      "status": 5,
       "dataAquisicao": "14-08-2020",
-      "secao": "Estante C3 - Prat. 1"
+      "idSecao": 2,
+      "idCliente": 5
     },
     {
       "id": 9,
       "idObra": 4,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "20-02-2018",
-      "secao": "Estante A4 - Prat. 3"
+      "idSecao": 1,
+      "idCliente": 4
     },
     {
       "id": 10,
       "idObra": 4,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "11-07-2021",
-      "secao": "Estante A4 - Prat. 3"
+      "idSecao": 1,
+      "idCliente": 4
     },
     {
       "id": 11,
       "idObra": 4,
-      "status": "EMPRESTADO",
+      "status": 2,
       "dataAquisicao": "05-12-2022",
-      "secao": "Estante A4 - Prat. 2"
+      "idSecao": 1,
+      "idCliente": 6
     },
     {
       "id": 12,
       "idObra": 5,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "02-09-2023",
-      "secao": "Estante D1 - Prat. 1"
+      "idSecao": 1,
+      "idCliente": 1
     },
     {
       "id": 13,
       "idObra": 5,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "15-01-2024",
-      "secao": "Estante D1 - Prat. 1"
+      "idSecao": 1,
+      "idCliente": 1
     },
     {
       "id": 14,
       "idObra": 6,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "29-10-2017",
-      "secao": "Estante C1 - Prat. 4"
+      "idSecao": 6,
+      "idCliente": 6
     },
     {
       "id": 15,
       "idObra": 6,
-      "status": "RESERVADO",
+      "status": 4,
       "dataAquisicao": "20-05-2019",
-      "secao": "Estante C1 - Prat. 4"
+      "idSecao": 6,
+      "idCliente": 2
     },
     {
       "id": 16,
       "idObra": 6,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "09-11-2021",
-      "secao": "Estante C1 - Prat. 3"
+      "idSecao": 6,
+      "idCliente": 3
     },
     {
       "id": 17,
       "idObra": 7,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "16-03-2022",
-      "secao": "Estante A2 - Prat. 2"
+      "idSecao": 3,
+      "idCliente": 3
     },
     {
       "id": 18,
       "idObra": 7,
-      "status": "EMPRESTADO",
+      "status": 3,
       "dataAquisicao": "08-04-2023",
-      "secao": "Estante A2 - Prat. 2"
+      "idSecao": 3,
+      "idCliente": 2
     },
     {
       "id": 19,
       "idObra": 8,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "12-10-2022",
-      "secao": "Estante B1 - Prat. 3"
+      "idSecao": 3,
+      "idCliente": 1
     },
     {
       "id": 20,
       "idObra": 8,
-      "status": "DANIFICADO",
+      "status": 5,
       "dataAquisicao": "23-12-2021",
-      "secao": "Estante B1 - Prat. 3"
+      "idSecao": 3,
+      "idCliente": 6
     },
     {
       "id": 21,
       "idObra": 8,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "09-02-2024",
-      "secao": "Estante B1 - Prat. 4"
+      "idSecao": 3,
+      "idCliente": 6
     },
     {
       "id": 22,
       "idObra": 9,
-      "status": "EMPRESTADO",
+      "status": 3,
       "dataAquisicao": "14-03-2020",
-      "secao": "Estante D3 - Prat. 1"
+      "idSecao": 3,
+      "idCliente": 5
     },
     {
       "id": 23,
       "idObra": 9,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "21-08-2021",
-      "secao": "Estante D3 - Prat. 1"
+      "idSecao": 3,
+      "idCliente": 4
     },
     {
       "id": 24,
       "idObra": 10,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "17-05-2023",
-      "secao": "Estante E2 - Prat. 4"
+      "idSecao": 5,
+      "idCliente": 6
     },
     {
       "id": 25,
       "idObra": 10,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "02-10-2023",
-      "secao": "Estante E2 - Prat. 4"
+      "idSecao": 5,
+      "idCliente": 2
     },
     {
       "id": 26,
       "idObra": 10,
-      "status": "EMPRESTADO",
+      "status": 3,
       "dataAquisicao": "10-01-2024",
-      "secao": "Estante E2 - Prat. 3"
+      "idSecao": 5,
+      "idCliente": 1
     },
     {
       "id": 27,
       "idObra": 11,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "25-07-2018",
-      "secao": "Estante F1 - Prat. 2"
+      "idSecao": 1,
+      "idCliente": 3
     },
     {
       "id": 28,
       "idObra": 11,
-      "status": "DANIFICADO",
+      "status": 5,
       "dataAquisicao": "10-09-2019",
-      "secao": "Estante F1 - Prat. 2"
+      "idSecao": 1,
+      "idCliente": 3
     },
     {
       "id": 29,
       "idObra": 12,
-      "status": "DISPONIVEL",
+      "status": 1,
       "dataAquisicao": "03-10-2020",
-      "secao": "Estante F2 - Prat. 3"
+      "idSecao": 5,
+      "idCliente": 2
     }
   ],
   "multas": [
@@ -307,19 +324,19 @@
       "id": 1,
       "valor": 0.00,
       "idCliente": 1,
-      "status": "Agendado"
+      "idExemplar": "1"
     },
     {
       "id": 2,
       "valor": 10,
       "idCliente": 3,
-      "status": "Entregue"
+      "idExemplar": "2"
     },
     {
       "id": 3,
       "valor": 2.50,
       "idCliente": 2,
-      "status": "Pendente"
+      "idExemplar": ""
     }
   ]
 }
