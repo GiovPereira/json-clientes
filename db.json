@@ -337,49 +337,5 @@
         "id": 5,
         "nome": "Extraviado/Danificado"      
     }
-  ],
-  "teste": [
-    {
-        "id": 1,
-        "nome": "Disponível"      
-    },
-    {
-        "id": 2,
-        "nome": "Reservado"      
-    },
-    {
-        "id": 3,
-        "nome": "Em posse"
-    },
-    {
-        "id": 4,
-        "nome": "Em atraso"      
-    },
-    {
-        "id": 5,
-        "nome": "Extraviado/Danificado"      
-    }
-  ],
-  "teste2": [
-    {
-        "id": 1,
-        "nome": ""      
-    },
-    {
-        "id": 2,
-        "nome": "Resrvado"      
-    },
-    {
-        "id": 3,
-        "nome": "Eposse"
-    },
-    {
-        "id": 4,
-        "nome": "Em atraso"      
-    },
-    {
-        "id": 5,
-        "nome": "Extraviadoificado"      
-    }
   ]
 }
