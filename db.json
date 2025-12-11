@@ -95,254 +95,247 @@
     {
       "id": 1,
       "idObra": 1,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "10-05-2022",
-      "idSecao": 1,
-      "idCliente": 1
+      "idSecao": 1
     },
     {
       "id": 2,
       "idObra": 1,
-      "status": 2,
+      "idStatus": 2,
       "dataAquisicao": "18-01-2023",
-      "idSecao": 1,
-      "idCliente": 2
+      "idSecao": 1
     },
     {
       "id": 3,
       "idObra": 1,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "03-08-2023",
-      "idSecao": 1,
-      "idCliente": 2
+      "idSecao": 1
     },
     {
       "id": 4,
       "idObra": 2,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "21-09-2021",
-      "idSecao": 5,
-      "idCliente": 2
+      "idSecao": 5
     },
     {
       "id": 5,
       "idObra": 2,
-      "status": 3,
+      "idStatus": 3,
       "dataAquisicao": "12-04-2022",
-      "idSecao": 5,
-      "idCliente": 1
+      "idSecao": 5
     },
     {
       "id": 6,
       "idObra": 2,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "19-06-2023",
-      "idSecao": 5,
-      "idCliente": 1
+      "idSecao": 5
     },
     {
       "id": 7,
       "idObra": 3,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "10-11-2019",
-      "idSecao": 2,
-      "idCliente": 4
+      "idSecao": 2
     },
     {
       "id": 8,
       "idObra": 3,
-      "status": 5,
+      "idStatus": 5,
       "dataAquisicao": "14-08-2020",
-      "idSecao": 2,
-      "idCliente": 5
+      "idSecao": 2
     },
     {
       "id": 9,
       "idObra": 4,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "20-02-2018",
-      "idSecao": 1,
-      "idCliente": 4
+      "idSecao": 1
     },
     {
       "id": 10,
       "idObra": 4,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "11-07-2021",
-      "idSecao": 1,
-      "idCliente": 4
+      "idSecao": 1
     },
     {
       "id": 11,
       "idObra": 4,
-      "status": 2,
+      "idStatus": 2,
       "dataAquisicao": "05-12-2022",
-      "idSecao": 1,
-      "idCliente": 6
+      "idSecao": 1
     },
     {
       "id": 12,
       "idObra": 5,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "02-09-2023",
-      "idSecao": 1,
-      "idCliente": 1
+      "idSecao": 1
     },
     {
       "id": 13,
       "idObra": 5,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "15-01-2024",
-      "idSecao": 1,
-      "idCliente": 1
+      "idSecao": 1
     },
     {
       "id": 14,
       "idObra": 6,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "29-10-2017",
-      "idSecao": 6,
-      "idCliente": 6
+      "idSecao": 6
     },
     {
       "id": 15,
       "idObra": 6,
-      "status": 4,
+      "idStatus": 4,
       "dataAquisicao": "20-05-2019",
-      "idSecao": 6,
-      "idCliente": 2
+      "idSecao": 6
     },
     {
       "id": 16,
       "idObra": 6,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "09-11-2021",
-      "idSecao": 6,
-      "idCliente": 3
+      "idSecao": 6
     },
     {
       "id": 17,
       "idObra": 7,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "16-03-2022",
-      "idSecao": 3,
-      "idCliente": 3
+      "idSecao": 3
     },
     {
       "id": 18,
       "idObra": 7,
-      "status": 3,
+      "idStatus": 3,
       "dataAquisicao": "08-04-2023",
-      "idSecao": 3,
-      "idCliente": 2
+      "idSecao": 3
     },
     {
       "id": 19,
       "idObra": 8,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "12-10-2022",
-      "idSecao": 3,
-      "idCliente": 1
+      "idSecao": 3
     },
     {
       "id": 20,
       "idObra": 8,
-      "status": 5,
+      "idStatus": 5,
       "dataAquisicao": "23-12-2021",
-      "idSecao": 3,
-      "idCliente": 6
+      "idSecao": 3
     },
     {
       "id": 21,
       "idObra": 8,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "09-02-2024",
-      "idSecao": 3,
-      "idCliente": 6
+      "idSecao": 3
     },
     {
       "id": 22,
       "idObra": 9,
-      "status": 3,
+      "idStatus": 3,
       "dataAquisicao": "14-03-2020",
-      "idSecao": 3,
-      "idCliente": 5
+      "idSecao": 3
     },
     {
       "id": 23,
       "idObra": 9,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "21-08-2021",
-      "idSecao": 3,
-      "idCliente": 4
+      "idSecao": 3
     },
     {
       "id": 24,
       "idObra": 10,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "17-05-2023",
-      "idSecao": 5,
-      "idCliente": 6
+      "idSecao": 5
     },
     {
       "id": 25,
       "idObra": 10,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "02-10-2023",
-      "idSecao": 5,
-      "idCliente": 2
+      "idSecao": 5
     },
     {
       "id": 26,
       "idObra": 10,
-      "status": 3,
+      "idStatus": 3,
       "dataAquisicao": "10-01-2024",
-      "idSecao": 5,
-      "idCliente": 1
+      "idSecao": 5
     },
     {
       "id": 27,
       "idObra": 11,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "25-07-2018",
-      "idSecao": 1,
-      "idCliente": 3
+      "idSecao": 1
     },
     {
       "id": 28,
       "idObra": 11,
-      "status": 5,
+      "idStatus": 5,
       "dataAquisicao": "10-09-2019",
-      "idSecao": 1,
-      "idCliente": 3
+      "idSecao": 1
     },
     {
       "id": 29,
       "idObra": 12,
-      "status": 1,
+      "idStatus": 1,
       "dataAquisicao": "03-10-2020",
-      "idSecao": 5,
-      "idCliente": 2
+      "idSecao": 5
     }
   ],
-  "multas": [
+    "multas": [
     {
       "id": 1,
       "valor": 0.00,
       "idCliente": 1,
-      "idExemplar": "1"
+      "idExemplar": 1
     },
     {
       "id": 2,
-      "valor": 10,
+      "valor": 10.00,
       "idCliente": 3,
-      "idExemplar": "2"
+      "idExemplar": 2
     },
     {
       "id": 3,
       "valor": 2.50,
       "idCliente": 2,
-      "idExemplar": ""
+      "idExemplar": 2
+    }
+  ],
+  "status": [
+    {
+        "id": 1,
+        "nome": "Disponível"      
+    },
+    {
+        "id": 2,
+        "nome": "Reservado"      
+    },
+    {
+        "id": 3,
+        "nome": "Em posse"
+    },
+    {
+        "id": 4,
+        "nome": "Em atraso"      
+    },
+    {
+        "id": 5,
+        "nome": "Extraviado/Danificado"      
     }
   ]
 }
