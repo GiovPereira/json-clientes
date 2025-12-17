@@ -299,24 +299,30 @@
     "multas": [
     {
       "id": 1,
-      "valor": 0.00,
-      "idCliente": 1,
-      "idExemplar": 1
+      "valor": 1060.00,
+      "idEmprestimo": 8,
+      "idValorDiarioMulta": 1
     },
     {
       "id": 2,
-      "valor": 10.00,
-      "idCliente": 3,
-      "idExemplar": 2
+      "valor": 98.00,
+      "idEmprestimo": 14,
+      "idValorDiarioMulta": 3
     },
     {
       "id": 3,
-      "valor": 2.50,
-      "idCliente": 2,
-      "idExemplar": 2
+      "valor": 20.00,
+      "idEmprestimo": 19,
+      "idValorDiarioMulta": 3
+    },
+    {
+      "id": 4,
+      "valor": 10.00,
+      "idEmprestimo": 22,
+      "idValorDiarioMulta": 3
     }
   ],
-  "status": [
+  "statusEmprestimos": [
     {
         "id": 1,
         "nome": "Disponível"      
@@ -338,3 +344,4 @@
         "nome": "Extraviado/Danificado"      
     }
   ]
+}
