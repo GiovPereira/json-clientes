@@ -322,7 +322,7 @@
       "idValorDiarioMulta": 3
     }
   ],
-  "statusEmprestimos": [
+  "statusExemplar": [
     {
         "id": 1,
         "nome": "Disponível"      
